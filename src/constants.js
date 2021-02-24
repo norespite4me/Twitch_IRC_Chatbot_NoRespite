@@ -1,3 +1,4 @@
+//export const CHANNEL_NAME = ['interyonbot'];
 export const CHANNEL_NAME = [
   'interyon', 'razzypls', 'imaefx',
   'leiabelle', 'kindakatt', 'zmalachi',

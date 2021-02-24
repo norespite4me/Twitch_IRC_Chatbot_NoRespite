@@ -82,8 +82,8 @@ async function onMessageHandler (channel, user, msg, self) {
   let args = msg;
 
   react.add_user(user);
-  if (BOT_USERNAME === user.username && user.mod === false && !user.badges){
-    await tool.sleep(5000);
+  if (BOT_USERNAME === user.username && user.mod === false){
+    await tool.sleep(2000);
     react.perform(channel, user, commandName, args, client);
   }else{
     react.perform(channel, user, commandName, args, client);
