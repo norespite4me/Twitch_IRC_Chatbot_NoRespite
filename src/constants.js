@@ -4,7 +4,8 @@ export const CHANNEL_NAME = [
   'leiabelle', 'kindakatt', 'zmalachi',
   'nylawuh', 'bloo', 'annbuuu',
   'krissylin', 'yoitsvortex', 'ads_deadly',
-  'iffyiffyiffy_', 'fatherlaur', 'ashencoal'
+  'iffyiffyiffy_', 'fatherlaur', 'ashencoal',
+  'vley'
 ];
 export const OAUTH_TOKEN = 'oauth:8i5verxh3ardvf2osp3pwkuxqo5heb';
 export const BOT_USERNAME = 'interyon';
