@@ -109,42 +109,42 @@ function reconnectHandler(){
 
 function onHostedHandler(channel, username, viewers, autohost){
   client.say(channel,
-    `Thank you ${username} for the host of ${viewers}!`
+    `/me Thank you ${username} for the host of ${viewers}!`
   );
   console.log(`${channel} was hosted by ${username} with ${viewers} viewers`.green);
 }
 
 function onRaidedHandler(channel, username, viewers){
   client.say(channel,
-    `Thank you ${username} for the raid of ${viewers}!`
+    `/me Thank you ${username} for the raid of ${viewers}!`
   );
   console.log(`${channel} was raided by ${username} with ${viewers} viewers`.green);
 }
 
 function onSubscriptionHandler(channel, username, method, msg, user){
   client.say(channel,
-    `Thank you ${username} for subscribing!`
+    `/me Thank you ${username} for subscribing!`
   );
   console.log(`${username} has subscribed to ${channel}`.green);
 }
 
 function onCheerHandler(channel, user, msg){
   client.say(channel,
-    `Thank you ${user.username} for the ${user.bits} bits!`
+    `/me Thank you ${user.username} for the ${user.bits} bits!`
   );
   console.log(`${user.username} has cheered ${user.bits} to ${channel}`.green);
 }
 
 function onGiftPaidUpgradeHandler(channel, username, sender, user){
   client.say(channel,
-    `Thank you ${username} for continuing your gifted sub!`
+    `/me Thank you ${username} for continuing your gifted sub!`
   );
   console.log(`${username} has continued gifted sub to ${channel}`.green);
 }
 
 function onHostingHandler(channel, target, viewers){
   client.say(channel,
-    `We are now hosting ${target} with ${viewers} viewers!`
+    `/me We are now hosting ${target} with ${viewers} viewers!`
   );
   console.log(`${channel} is hosting ${target} with ${viewers} viewers!`.green);
 }
@@ -152,14 +152,14 @@ function onHostingHandler(channel, target, viewers){
 function resubHandler(channel, username, months, msg, user, methods){
   const cumulativeMonths = user['msg-param-cumulative-months'];
   client.say(channel,
-    `Thank you ${username} for the ${cumulativeMonths} sub!`
+    `/me Thank you ${username} for the ${cumulativeMonths} sub!`
   );
   console.log(`${username} has subbed to ${channel}. Streak: ${cumulativeMonths} months.`.green);
 }
 
 function subGiftHandler(channel, username, streakMonths, recipient, methods, user){
   client.say(channel,
-    `Thank you ${username} for gifting a sub to ${recipient}!`
+    `/me Thank you ${username} for gifting a sub to ${recipient}!`
   );
   console.log(`${username} has gifted a sub to ${recipient} in ${channel}`.green);
 }
