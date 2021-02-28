@@ -152,7 +152,7 @@ function onHostingHandler(channel, target, viewers){
 function resubHandler(channel, username, months, msg, user, methods){
   const cumulativeMonths = user['msg-param-cumulative-months'];
   client.say(channel,
-    `/me Thank you ${username} for the ${cumulativeMonths} sub!`
+    `/me Thank you ${username} for the ${cumulativeMonths} month sub!`
   );
   console.log(`${username} has subbed to ${channel}. Streak: ${cumulativeMonths} months.`.green);
 }
