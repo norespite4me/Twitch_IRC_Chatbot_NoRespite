@@ -81,7 +81,7 @@ async function onMessageHandler (channel, user, msg, self) {
   msg.shift()
   let args = msg;
 
-  console.log(user);
+  //console.log(user);
   react.add_user(user);
   if (BOT_USERNAME === user.username && user.mod === false){
     await tool.sleep(2000);
