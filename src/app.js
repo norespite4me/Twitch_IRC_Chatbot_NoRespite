@@ -85,10 +85,8 @@ async function onMessageHandler (channel, user, msg, self) {
   react.add_user(user);
   if (BOT_USERNAME === user.username && user.mod === false){
     await tool.sleep(2000);
-    react.perform(channel, user, commandName, args, client);
-  }else{
-    react.perform(channel, user, commandName, args, client);
   }
+  react.perform(channel, user, commandName, args, client);
   
 }
   
@@ -130,17 +128,17 @@ function onSubscriptionHandler(channel, username, method, msg, user){
     console.log(`${username} has subbed to ${channel} with PRIME`.green);
   }else if (user['msg-param-sub-plan'] === '1000'){
     client.say(channel,
-      `/me interyPOP NEW TIER 1 SUB! interPOP ${username}, thank you for supporting the stream!`
+      `/me interyPOP NEW TIER 1 SUB! interyPOP ${username}, thank you for supporting the stream!`
     );
     console.log(`${username} has subbed to ${channel} with TIER 1`.green);
   }else if (user['msg-param-sub-plan'] === '2000'){
     client.say(channel,
-      `/me interyPOP NEW TIER 2 SUB! interPOP ${username}, thank you for supporting the stream!`
+      `/me interyPOP NEW TIER 2 SUB! interyPOP ${username}, thank you for supporting the stream!`
     );
     console.log(`${username} has subbed to ${channel} with TIER 2`.green);
   }else if (user['msg-param-sub-plan'] === '3000'){
     client.say(channel,
-      `/me interyPOP NEW TIER 3 SUB! interPOP ${username}, thank you for supporting the stream!`
+      `/me interyPOP NEW TIER 3 SUB! interyPOP ${username}, thank you for supporting the stream!`
     );
     console.log(`${username} has subbed to ${channel} with TIER 3`.green);
   }
