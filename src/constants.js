@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['zmalachi'];
+//export const CHANNEL_NAME = ['ninokyu'];
 export const CHANNEL_NAME = [
   'interyon', 'razzypls', 'imaefx',
   'leiabelle', 'kindakatt', 'zmalachi',
