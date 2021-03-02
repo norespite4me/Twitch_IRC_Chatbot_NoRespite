@@ -1,5 +1,5 @@
-//export const CHANNEL_NAME = ['itsrft'];
-export const CHANNEL_NAME = [
+export const CHANNEL_NAME = ['zmalachi'];
+export const iCHANNEL_NAME = [
   'interyon', 'razzypls', 'imaefx',
   'leiabelle', 'kindakatt', 'zmalachi',
   'nylawuh', 'bloo', 'annbuuu',

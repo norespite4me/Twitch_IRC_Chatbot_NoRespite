@@ -24,6 +24,9 @@ const opts = {
 // Create a client with our options
 const client = new tmi.client(opts);
 
+// Connect to Twitch:
+client.connect();
+
 // Register our event handlers (defined below)
 client.on('message', onMessageHandler);
 client.on('connected', onConnectedHandler);
@@ -33,9 +36,15 @@ client.on('disconnected', (reason) => {
 client.on('reconnect', () => {
   reconnectHandler();
 });
-
-// Connect to Twitch:
-client.connect();
+client.on('join', (channel, username, self) => {
+  //console.log(username);
+  if(`#${username}` === channel){
+    client.say(channel,
+      `/me is first in chat`
+    );
+    console.log(`${channel} has gone live`.green);
+  }
+});
 
 //events
 client.on('hosted', (channel, username, viewers, autohost) => {
@@ -82,6 +91,7 @@ async function onMessageHandler (channel, user, msg, self) {
   let args = msg;
 
   //console.log(user);
+  //console.log(channel);
   react.add_user(user);
   if (BOT_USERNAME === user.username && user.mod === false){
     await tool.sleep(2000);
