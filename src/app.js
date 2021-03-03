@@ -36,15 +36,7 @@ client.on('disconnected', (reason) => {
 client.on('reconnect', () => {
   reconnectHandler();
 });
-client.on('join', (channel, username, self) => {
-  //console.log(username);
-  if(`#${username}` === channel){
-    client.say(channel,
-      `/me is first in chat`
-    );
-    console.log(`${channel} has gone live`.green);
-  }
-});
+
 
 //events
 client.on('hosted', (channel, username, viewers, autohost) => {
