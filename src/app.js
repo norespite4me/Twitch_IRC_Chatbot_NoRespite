@@ -120,7 +120,7 @@ function onRaidedHandler(channel, username, viewers){
     `/me interyPOP A RAID OF ${viewers}! interyPOP Thank you ${username} for the RAID!!! leiabeLove`
   );
   client.say(channel,
-    `/me GO DROP A FOLLOW! https://www.twitch.tv/${username}! PogChamp`  
+    `/me GO DROP A FOLLOW! https://www.twitch.tv/${username}! PogChamp`
   );
   console.log(`${channel} was raided by ${username} with ${viewers} viewers`.green);
 }
