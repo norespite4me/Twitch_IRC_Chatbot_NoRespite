@@ -1,11 +1,9 @@
 //export const CHANNEL_NAME = ['ninokyu'];
 export const CHANNEL_NAME = [
-  'interyon', 'razzypls', 'imaefx',
-  'leiabelle', 'kindakatt', 'zmalachi',
-  'nylawuh', 'bloo', 'annbuuu',
-  'krissylin', 'yoitsvortex', 'ads_deadly',
-  'ashencoal', 'vley', 'bunniejulie',
-  'itisnotnormal', 'im_vivid'
+  'interyon', 'imaefx', 'leiabelle',
+  'kindakatt', 'zmalachi', 'nylawuh',
+  'yoitsvortex', 'ashencoal','itisnotnormal',
+  'im_vivid'
 ];
 export const OAUTH_TOKEN = 'oauth:8i5verxh3ardvf2osp3pwkuxqo5heb';
 export const BOT_USERNAME = 'interyon';
