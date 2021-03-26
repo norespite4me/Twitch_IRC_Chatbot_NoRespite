@@ -3,7 +3,8 @@ export const CHANNEL_NAME = [
   'interyon', 'imaefx', 'leiabelle',
   'kindakatt', 'zmalachi', 'nylawuh',
   'yoitsvortex', 'ashencoal','itisnotnormal',
-  'im_vivid', 'mikeemadness', 'vley'
+  'im_vivid', 'mikeemadness', 'vley',
+  'exotixlogic'
 ];
 export const OAUTH_TOKEN = 'oauth:8i5verxh3ardvf2osp3pwkuxqo5heb';
 export const BOT_USERNAME = 'interyon';
