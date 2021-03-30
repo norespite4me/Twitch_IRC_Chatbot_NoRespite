@@ -1,5 +1,5 @@
-//export const CHANNEL_NAME = ['ninokyu'];
-export const CHANNEL_NAME = [
+export const CHANNEL_NAME = ['interyon'];
+export const sCHANNEL_NAME = [
   'interyon', 'imaefx', 'leiabelle',
   'kindakatt', 'zmalachi', 'nylawuh',
   'yoitsvortex', 'ashencoal','itisnotnormal',
