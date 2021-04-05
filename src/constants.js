@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['gothtarget'];
+//export const CHANNEL_NAME = ['rhins'];
 export const CHANNEL_NAME = [
   'interyon', 'imaefx', 'leiabelle',
   'kindakatt', 'zmalachi', 'nylawuh',

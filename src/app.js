@@ -79,7 +79,7 @@ async function onMessageHandler (channel, user, msg, self) {
   // Remove whitespace from chat message
   msg = msg.toLowerCase().split(' ');
   let commandName = msg[0];
-  msg.shift()
+  msg.shift();
   let args = msg;
 
   //console.log(user);
@@ -201,16 +201,16 @@ function subGiftHandler(channel, username, streakMonths, recipient, methods, use
     client.say(channel,
       `/me interyPOP GIFTED TIER 1 SUB interyPOP ${username}, thank you for gifting a TIER 1 SUB to ${recipient}! leiabeLove`
     );
-    console.log(`${username} has gifted sub to ${channel} with TIER 1`.green);
+    console.log(`${username} has gifted sub to ${recipient} in ${channel} with TIER 1`.green);
   }else if (user['msg-param-sub-plan'] === '2000'){
     client.say(channel,
       `/me interyPOP GIFTED TIER 2 SUB interyPOP ${username}, thank you for gifting a TIER 2 SUB to ${recipient}! leiabeLove`
     );
-    console.log(`${username} has gifted sub to ${channel} with TIER 2`.green);
+    console.log(`${username} has gifted sub to ${recipient} in ${channel} with TIER 2`.green);
   }else if (user['msg-param-sub-plan'] === '3000'){
     client.say(channel,
       `/me interyPOP GIFTED TIER 3 SUB interyPOP ${username}, thank you for gifting a TIER 3 SUB to ${recipient}! leiabeLove`
     );
-    console.log(`${username} has gifted sub to ${channel} with TIER 3`.green);
+    console.log(`${username} has gifted sub to ${recipient} in ${channel} with TIER 3`.green);
   }
 }
