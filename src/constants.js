@@ -1,10 +1,10 @@
-//export const CHANNEL_NAME = ['rhins'];
+//export const CHANNEL_NAME = ['the_hantaro'];
 export const CHANNEL_NAME = [
   'interyon', 'imaefx', 'leiabelle',
   'kindakatt', 'zmalachi', 'nylawuh',
-  'yoitsvortex', 'ashencoal','itisnotnormal',
-  'im_vivid', 'mikeemadness', 'vley',
-  'exotixlogic', 'ashleeamv'
+  'yoitsvortex', 'ashencoal', 'im_vivid',
+  'mikeemadness', 'vley', 'exotixlogic',
+  'ashleeamv', 'gothtarget'
 ];
 export const OAUTH_TOKEN = 'oauth:8i5verxh3ardvf2osp3pwkuxqo5heb';
 export const BOT_USERNAME = 'interyon';
