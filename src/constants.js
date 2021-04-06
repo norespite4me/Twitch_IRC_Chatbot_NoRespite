@@ -13,7 +13,8 @@ export const BLOCKED_WORDS = [
   'kneegrow', 'nigga', 'anal',
   'bugger', 'homo', 'queer',
   'fag', 'l4l', 'f4f',
-  'niggah', 'terrorist'
+  'niggah', 'terrorist', 'retard',
+  'retarded'
 ];
 
 //nwiw7g1k1wza25356ybqv2a9pn7i99
