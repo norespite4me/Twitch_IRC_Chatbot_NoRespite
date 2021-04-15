@@ -1,5 +1,5 @@
-//export const CHANNEL_NAME = ['im_vivid'];
-export const CHANNEL_NAME = [
+export const CHANNEL_NAME = ['fivebc'];
+export const sCHANNEL_NAME = [
   'interyon', 'imaefx', 'leiabelle',
   'kindakatt', 'zmalachi', 'nylawuh',
   'yoitsvortex', 'ashencoal', 'im_vivid',
