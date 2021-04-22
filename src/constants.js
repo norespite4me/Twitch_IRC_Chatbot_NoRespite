@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['fivebc'];
+//export const CHANNEL_NAME = ['shortyple'];
 export const CHANNEL_NAME = [
   'interyon', 'imaefx', 'leiabelle',
   'kindakatt', 'zmalachi', 'nylawuh',
@@ -6,7 +6,7 @@ export const CHANNEL_NAME = [
   'mikeemadness', 'vley', 'exotixlogic',
   'ashleeamv', 'gothtarget', 'its_gunning'
 ];
-export const OAUTH_TOKEN = 'oauth:8i5verxh3ardvf2osp3pwkuxqo5heb';
+
 export const BOT_USERNAME = 'interyon';
 export const BLOCKED_WORDS = [
   'nigger', 'faggot', 'kneeger',
@@ -16,4 +16,3 @@ export const BLOCKED_WORDS = [
   'terrorist', 'retard', 'retarded'
 ];
 
-//nwiw7g1k1wza25356ybqv2a9pn7i99

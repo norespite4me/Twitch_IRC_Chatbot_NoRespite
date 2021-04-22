@@ -1,7 +1,8 @@
 import tmi from 'tmi.js';
-import {BOT_USERNAME, OAUTH_TOKEN, CHANNEL_NAME, BLOCKED_WORDS} from './constants';
-import * as react from '../lib/react.js'
-import * as tool from './tools.js'
+import {BOT_USERNAME, CHANNEL_NAME, BLOCKED_WORDS} from './constants';
+import {OAUTH_TOKEN} from '../../twitch_bot_files/data/token';
+import * as react from '../lib/react.js';
+import * as tool from './tools.js';
 var colors = require('colors');
 
 // Define configuration options
