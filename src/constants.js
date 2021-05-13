@@ -1,10 +1,9 @@
-//export const CHANNEL_NAME = ['shortyple'];
+//export const CHANNEL_NAME = ['major4beatz'];
 export const CHANNEL_NAME = [
-  'interyon', 'imaefx', 'leiabelle',
-  'kindakatt', 'zmalachi', 'nylawuh',
+  'interyon', 'imaefx', 'kindakatt',
+  'zmalachi', 'nylawuh', 'its_gunning',
   'yoitsvortex', 'ashencoal', 'im_vivid',
-  'mikeemadness', 'vley', 'exotixlogic',
-  'ashleeamv', 'gothtarget', 'its_gunning'
+  'mikeemadness', 'vley', 'exotixlogic'  
 ];
 
 export const BOT_USERNAME = 'interyon';
