@@ -1,9 +1,10 @@
-export const CHANNEL_NAME = ['itsrft'];
-export const sCHANNEL_NAME = [
+//export const CHANNEL_NAME = ['itsrft'];
+export const CHANNEL_NAME = [
   'interyon', 'imaefx', 'kindakatt',
   'zmalachi', 'nylawuh', 'its_gunning',
   'yoitsvortex', 'ashencoal', 'im_vivid',
-  'mikeemadness', 'vley', 'exotixlogic'  
+  'mikeemadness', 'vley', 'exotixlogic',
+  'itsrft' 
 ];
 
 export const BOT_USERNAME = 'interyon';
