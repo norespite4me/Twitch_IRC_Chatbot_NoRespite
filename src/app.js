@@ -1,5 +1,5 @@
 import tmi from 'tmi.js';
-import {BOT_USERNAME, CHANNEL_NAME, BLOCKED_WORDS} from './constants';
+import {BOT_USERNAME, CHANNEL_NAME, ANNOUNCE_ENABLED} from './constants';
 import {OAUTH_TOKEN} from '../../twitch_bot_files/data/token';
 import * as react from '../lib/react.js';
 import * as tool from './tools.js';
@@ -41,35 +41,59 @@ client.on('reconnect', () => {
 
 //events
 client.on('hosted', (channel, username, viewers, autohost) => {
-  onHostedHandler(channel, username, viewers, autohost);
+  if(ANNOUNCE_ENABLED.includes(channel.substring(1))){
+    onHostedHandler(channel, username, viewers, autohost);
+  }
+  
 });
 
 client.on('subscription', (channel, username, method, msg, user) => {
-  onSubscriptionHandler(channel, username, method, msg, user);
+  if(ANNOUNCE_ENABLED.includes(channel.substring(1))){
+    onSubscriptionHandler(channel, username, method, msg, user);
+  }
+  
 });
 
 client.on('raided', (channel, username, viewers) => {
-  onRaidedHandler(channel, username, viewers);
+  if(ANNOUNCE_ENABLED.includes(channel.substring(1))){
+    onRaidedHandler(channel, username, viewers);
+  }
+  
 });
 
 client.on('cheer', (channel, user, msg) => {
-  onCheerHandler(channel, user, msg);
+  if(ANNOUNCE_ENABLED.includes(channel.substring(1))){
+    onCheerHandler(channel, user, msg);
+  }
+  
 });
 
 client.on('giftpaidupgrade', (channel, username, sender, user) => {
-  onGiftPaidUpgradeHandler(channel, username, sender, user);
+  if(ANNOUNCE_ENABLED.includes(channel.substring(1))){
+    onGiftPaidUpgradeHandler(channel, username, sender, user);
+  }
+  
 });
 
 client.on('hosting', (channel, target, viewers) => {
-  onHostingHandler(channel, target, viewers);
+  if(ANNOUNCE_ENABLED.includes(channel.substring(1))){
+    onHostingHandler(channel, target, viewers);
+  }
+  
 });
 
 client.on('resub', (channel, username, months, msg, user, methods) => {
-  resubHandler(channel, username, months, msg, user, methods);
+  if(ANNOUNCE_ENABLED.includes(channel.substring(1))){
+    resubHandler(channel, username, months, msg, user, methods);
+  }
+  
 });
 
 client.on('subgift', (channel, username, streakMonths, recipient, methods, user) => {
-  subGiftHandler(channel, username, streakMonths, recipient, methods, user);
+  if(ANNOUNCE_ENABLED.includes(channel.substring(1))){
+    subGiftHandler(channel, username, streakMonths, recipient, methods, user);
+  }
+  
 });
 
 
