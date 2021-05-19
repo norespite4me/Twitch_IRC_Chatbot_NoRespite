@@ -4,13 +4,15 @@ export const CHANNEL_NAME = [
   'zmalachi', 'nylawuh', 'its_gunning',
   'yoitsvortex', 'ashencoal', 'im_vivid',
   'mikeemadness', 'vley', 'exotixlogic',
-  'itsrft', 'gothtarget', 'leiabelle'
+  'itsrft', 'gothtarget', 'leiabelle',
+  'uwureborn'
 ];
 
 export const ANNOUNCE_ENABLED = [
   'interyon', 'imaefx', 'kindakatt',
   'zmalachi', 'vley', 'im_vivid',
-  'mikeemadness', 'exotixlogic', 'gothtarget'
+  'mikeemadness', 'exotixlogic', 'gothtarget',
+  'uwureborn'
 ];
 
 export const BOT_USERNAME = 'interyon';
