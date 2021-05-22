@@ -1,11 +1,11 @@
-//export const CHANNEL_NAME = ['lilfoxu'];
+//export const CHANNEL_NAME = ['shortyple'];
 export const CHANNEL_NAME = [
     'interyon', 'imaefx', 'kindakatt',
     'zmalachi', 'nylawuh', 'its_gunning',
     'yoitsvortex', 'ashencoal', 'im_vivid',
     'mikeemadness', 'vley', 'exotixlogic',
     'itsrft', 'gothtarget', 'leiabelle',
-    'uwureborn', 'lilfoxu'
+    'uwureborn', 'lilfoxu', 'shortyple'
 ];
 
 export const ANNOUNCE_ENABLED = [
