@@ -5,7 +5,7 @@ export const CHANNEL_NAME = [
     'yoitsvortex', 'ashencoal', 'im_vivid',
     'not__mikee', 'vley', 'exotixlogic',
     'itsrft', 'gothtarget', 'leiabelle',
-    'uwureborn', 'lilfoxu', 'shortyple'
+    'uwureborn', 'xkitsugirl', 'shortyple'
 ];
 
 export const ANNOUNCE_ENABLED = [
@@ -15,6 +15,9 @@ export const ANNOUNCE_ENABLED = [
     'uwureborn'
 ];
 
+export const ECONOMY_ENABLED = [
+];
+
 export const BOT_USERNAME = 'interyon';
 export const BLOCKED_WORDS = [
     'nigger', 'faggot', 'kneeger',
@@ -22,8 +25,7 @@ export const BLOCKED_WORDS = [
     'homo', 'queer', 'fag',
     'l4l', 'f4f', 'niggah',
     'terrorist', 'retard', 'retarded',
-    'tranny', 'coon', 'simp',
+    'tranny', 'coon','zipperhead',
     'chink', 'kike', 'blackie',
-    'blacky', 'zipperhead', 'virgin',
-    'incel'
+    'blacky', 
 ];
