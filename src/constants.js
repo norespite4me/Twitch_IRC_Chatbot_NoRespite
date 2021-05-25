@@ -1,5 +1,5 @@
-//export const CHANNEL_NAME = ['shortyple'];
-export const CHANNEL_NAME = [
+export const CHANNEL_NAME = ['interyon', 'itsrft'];
+export const sCHANNEL_NAME = [
     'interyon', 'imaefx', 'kindakatt',
     'zmalachi', 'nylawuh', 'its_gunning',
     'yoitsvortex', 'ashencoal', 'im_vivid',
@@ -11,14 +11,24 @@ export const CHANNEL_NAME = [
 export const ANNOUNCE_ENABLED = [
     'interyon', 'imaefx', 'kindakatt',
     'zmalachi', 'vley', 'im_vivid',
-    'mikeemadness', 'exotixlogic', 'gothtarget',
+    'not__mikee', 'exotixlogic', 'gothtarget',
     'uwureborn'
 ];
 
 export const ECONOMY_ENABLED = [
+    'uwureborn', 'zmalachi', 'exotixlogic',
+    'gothtarget', 'kindakatt', 'vley',
+    'imaefx', 'interyon', 'im_vivid',
+    'yoitsvortex', 'ashencoal'
+];
+
+export const SUPER_MOD = [
+    'interyon', 'itsrft', 'kindakatt',
+    'zmalachi'
 ];
 
 export const BOT_USERNAME = 'interyon';
+
 export const BLOCKED_WORDS = [
     'nigger', 'faggot', 'kneeger',
     'kneegrow', 'nigga', 'bugger',
