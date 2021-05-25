@@ -27,5 +27,6 @@ export const BLOCKED_WORDS = [
     'terrorist', 'retard', 'retarded',
     'tranny', 'coon','zipperhead',
     'chink', 'kike', 'blackie',
-    'blacky', 
+    'blacky', 'bigfollows', 'wanna become famous',
+    'buy followers'
 ];
