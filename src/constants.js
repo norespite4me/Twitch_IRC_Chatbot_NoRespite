@@ -5,21 +5,21 @@ export const CHANNEL_NAME = [
     'yoitsvortex', 'ashencoal', 'im_vivid',
     'not__mikee', 'vley', 'exotixlogic',
     'itsrft', 'gothtarget', 'leiabelle',
-    'uwureborn', 'xkitsugirl'
+    'uwureborn', 'xkitsugirl', 'ziroyals'
 ];
 
 export const ANNOUNCE_ENABLED = [
     'interyon', 'imaefx', 'kindakatt',
     'zmalachi', 'vley', 'im_vivid',
     'not__mikee', 'exotixlogic', 'gothtarget',
-    'uwureborn'
+    'uwureborn', 'ziroyals'
 ];
 
 export const ECONOMY_ENABLED = [
     'uwureborn', 'zmalachi', 'exotixlogic',
     'gothtarget', 'kindakatt', 'vley',
     'imaefx', 'interyon', 'im_vivid',
-    'yoitsvortex', 'ashencoal'
+    'yoitsvortex', 'ashencoal', 'ziroyals'
 ];
 
 export const SUPER_MOD = [
