@@ -4,8 +4,8 @@ export const CHANNEL_NAME = [
     'zmalachi', 'nylawuh', 'its_gunning',
     'yoitsvortex', 'ashencoal', 'im_vivid',
     'not__mikee', 'vley', 'exotixlogic',
-    'itsrft', 'gothtarget', 'leiabelle',
-    'uwureborn', 'xkitsugirl', 'ziroyals'
+    'itsrft', 'uhavidity', 'uwureborn',
+    'xkitsugirl', 'ziroyals'
 ];
 
 export const ANNOUNCE_ENABLED = [
