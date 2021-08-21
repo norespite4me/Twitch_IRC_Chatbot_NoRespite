@@ -1,4 +1,5 @@
-//export const CHANNEL_NAME = ['xkilala'];
+//export const CHANNEL_NAME = ['omnibal'];
+
 export const CHANNEL_NAME = [
     'interyon', 'imaefx', 'kindakatt',
     'zmalachi', 'nylawuh', 'its_gunning',
@@ -31,7 +32,7 @@ export const BOT_USERNAME = 'interyon';
 
 export const BLOCKED_WORDS = [
     'nigger', 'faggot', 'kneeger',
-    'kneegrow', 'nigga', 'bugger',
+    'kneegrow', 'bugger',
     'homo', 'queer', 'fag',
     'l4l', 'f4f', 'niggah',
     'terrorist', 'retard', 'retarded',
