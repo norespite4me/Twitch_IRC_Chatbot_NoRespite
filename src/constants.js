@@ -6,7 +6,7 @@ export const CHANNEL_NAME = [
     'yoitsvortex', 'ashencoal', 'im_vivid',
     'not__mikee', 'vley', 'exotixlogic',
     'itsrft', 'uhavidity', 'uwureborn',
-    'xkitsugirl', 'zlroyals'
+    'xkitsugirl', 'zlroyals', 'leiabelle'
 ];
 
 export const ANNOUNCE_ENABLED = [
