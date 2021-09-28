@@ -1,34 +1,36 @@
-//export const CHANNEL_NAME = ['omnibal'];
+//export const CHANNEL_NAME = ['sithlrcn'];
 
 export const CHANNEL_NAME = [
-    'interyon', 'imaefx', 'kindakatt',
+    'intercreates', 'imaefx', 'kindakatt',
     'zmalachi', 'nylawuh', 'its_gunning',
     'yoitsvortex', 'ashencoal', 'im_vivid',
     'not__mikee', 'vley', 'exotixlogic',
-    'itsrft', 'uhavidity', 'uwureborn',
-    'xkitsugirl', 'zlroyals', 'leiabelle'
+    'itsrft', 'uhavidity', 'cutestrosie',
+    'xkitsugirl', 'zlroyals', 'leiabelle',
+    'cartiestt', 'sithlrcn'
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'interyon', 'imaefx', 'kindakatt',
+    'intercreates', 'imaefx', 'kindakatt',
     'zmalachi', 'vley', 'im_vivid',
     'not__mikee', 'exotixlogic', 'gothtarget',
-    'uwureborn', 'ziroyals'
+    'cutestrosie', 'ziroyals', 'cartiestt', 'sithlrcn'
 ];
 
 export const ECONOMY_ENABLED = [
-    'uwureborn', 'zmalachi', 'exotixlogic',
+    'cutestrosie', 'zmalachi', 'exotixlogic',
     'gothtarget', 'kindakatt', 'vley',
-    'imaefx', 'interyon', 'im_vivid',
-    'yoitsvortex', 'ashencoal', 'ziroyals'
+    'imaefx', 'intercreates', 'im_vivid',
+    'yoitsvortex', 'ashencoal', 'zlroyals',
+    'cartiestt', 'sithlrcn',
 ];
 
 export const SUPER_MOD = [
-    'interyon', 'itsrft', 'kindakatt',
+    'intercreates', 'itsrft', 'kindakatt',
     'zmalachi'
 ];
 
-export const BOT_USERNAME = 'interyon';
+export const BOT_USERNAME = 'intercreates';
 
 export const BLOCKED_WORDS = [
     'nigger', 'faggot', 'kneeger',
