@@ -7,14 +7,15 @@ export const CHANNEL_NAME = [
     'not__mikee', 'vley', 'exotixlogic',
     'itsrft', 'uhavidity', 'cutestrosie',
     'xkitsugirl', 'zlroyals', 'leiabelle',
-    'cartiestt', 'sithlrcn'
+    'cartiestt', 'sithlrcn', 'dukesnipez'
 ];
 
 export const ANNOUNCE_ENABLED = [
     'intercreates', 'imaefx', 'kindakatt',
     'zmalachi', 'vley', 'im_vivid',
     'not__mikee', 'exotixlogic', 'gothtarget',
-    'cutestrosie', 'ziroyals', 'cartiestt', 'sithlrcn'
+    'cutestrosie', 'ziroyals', 'cartiestt',
+    'sithlrcn', 'dukesnipez'
 ];
 
 export const ECONOMY_ENABLED = [
@@ -22,7 +23,7 @@ export const ECONOMY_ENABLED = [
     'gothtarget', 'kindakatt', 'vley',
     'imaefx', 'intercreates', 'im_vivid',
     'yoitsvortex', 'ashencoal', 'zlroyals',
-    'cartiestt', 'sithlrcn',
+    'cartiestt', 'sithlrcn', 'dukesnipez'
 ];
 
 export const SUPER_MOD = [
