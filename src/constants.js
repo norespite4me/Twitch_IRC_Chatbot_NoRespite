@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['sithlrcn'];
+//export const CHANNEL_NAME = ['dukesnipez'];
 
 export const CHANNEL_NAME = [
     'intercreates', 'imaefx', 'kindakatt',
@@ -23,7 +23,7 @@ export const ECONOMY_ENABLED = [
     'gothtarget', 'kindakatt', 'vley',
     'imaefx', 'intercreates', 'im_vivid',
     'yoitsvortex', 'ashencoal', 'zlroyals',
-    'cartiestt', 'sithlrcn', 'dukesnipez'
+    'cartiestt', 'sithlrcn'
 ];
 
 export const SUPER_MOD = [

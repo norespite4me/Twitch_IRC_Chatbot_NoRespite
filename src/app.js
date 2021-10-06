@@ -155,7 +155,7 @@ function onHostedHandler(channel, username, viewers, autohost) {
 
 function onRaidedHandler(channel, username, viewers) {
     client.say(channel,
-        `/me interyPOP A RAID OF ${viewers}! interyPOP Thank you ${username} for the RAID!!! leiabeLove`
+        `/me interyPOP A RAID OF ${viewers}! interyPOP Thank you ${username} for the RAID!!! interyISCREAM`
     );
     console.log(`${channel} was raided by ${username} with ${viewers} viewers`.green);
 }
@@ -163,7 +163,7 @@ function onRaidedHandler(channel, username, viewers) {
 function onSubscriptionHandler(channel, username, method, msg, user) {
     if (user['msg-param-sub-plan'] === 'Prime') {
         client.say(channel,
-            `/me interyPOP NEW PRIME SUB interyPOP ${username}, thank you for supporting the stream! leiabeLove`
+            `/me interyPOP NEW PRIME SUB interyPOP ${username}, thank you for supporting the stream! interyISCREAM`
         );
         console.log(`${username} has subbed to ${channel} with PRIME`.green);
     } else if (user['msg-param-sub-plan'] === '1000') {
@@ -186,7 +186,7 @@ function onSubscriptionHandler(channel, username, method, msg, user) {
 
 function onCheerHandler(channel, user, msg) {
     client.say(channel,
-        `/me interyPOP OMG OMG OMG interyPOP ${user.username} with the ${user.bits} bits! leiabeLove`
+        `/me interyPOP OMG OMG OMG interyPOP ${user.username} with the ${user.bits} bits! interyISCREAM`
     );
     console.log(`${user.username} has cheered ${user.bits} to ${channel}`.green);
 }
@@ -210,22 +210,22 @@ function resubHandler(channel, username, months, msg, user, methods) {
 
     if (user['msg-param-sub-plan'] === 'Prime') {
         client.say(channel,
-            `/me interyPOP PRIME SUB interyPOP ${username}, thanks for the ${cumulativeMonths} month sub! leiabeLove`
+            `/me interyPOP PRIME SUB interyPOP ${username}, thanks for the ${cumulativeMonths} month sub! interyISCREAM`
         );
         console.log(`${username} has resubbed to ${channel} with PRIME`.green);
     } else if (user['msg-param-sub-plan'] === '1000') {
         client.say(channel,
-            `/me interyPOP TIER 1 SUB interyPOP ${username}, thanks for the ${cumulativeMonths} month sub! leiabeLove`
+            `/me interyPOP TIER 1 SUB interyPOP ${username}, thanks for the ${cumulativeMonths} month sub! interyISCREAM`
         );
         console.log(`${username} has resubbed to ${channel} with TIER 1`.green);
     } else if (user['msg-param-sub-plan'] === '2000') {
         client.say(channel,
-            `/me interyPOP TIER 2 SUB interyPOP ${username}, thanks for the ${cumulativeMonths} month sub! leiabeLove`
+            `/me interyPOP TIER 2 SUB interyPOP ${username}, thanks for the ${cumulativeMonths} month sub! interyISCREAM`
         );
         console.log(`${username} has resubbed to ${channel} with TIER 2`.green);
     } else if (user['msg-param-sub-plan'] === '3000') {
         client.say(channel,
-            `/me interyPOP TIER 3 SUB interyPOP ${username}, thanks for the ${cumulativeMonths} month sub! leiabeLove`
+            `/me interyPOP TIER 3 SUB interyPOP ${username}, thanks for the ${cumulativeMonths} month sub! interyISCREAM`
         );
         console.log(`${username} has resubbed to ${channel} with TIER 3`.green);
     }
@@ -234,17 +234,17 @@ function resubHandler(channel, username, months, msg, user, methods) {
 function subGiftHandler(channel, username, streakMonths, recipient, methods, user) {
     if (user['msg-param-sub-plan'] === '1000') {
         client.say(channel,
-            `/me interyPOP GIFTED TIER 1 SUB interyPOP ${username}, thank you for gifting a TIER 1 SUB to ${recipient}! leiabeLove`
+            `/me interyPOP GIFTED TIER 1 SUB interyPOP ${username}, thank you for gifting a TIER 1 SUB to ${recipient}! interyISCREAM`
         );
         console.log(`${username} has gifted sub to ${recipient} in ${channel} with TIER 1`.green);
     } else if (user['msg-param-sub-plan'] === '2000') {
         client.say(channel,
-            `/me interyPOP GIFTED TIER 2 SUB interyPOP ${username}, thank you for gifting a TIER 2 SUB to ${recipient}! leiabeLove`
+            `/me interyPOP GIFTED TIER 2 SUB interyPOP ${username}, thank you for gifting a TIER 2 SUB to ${recipient}! interyISCREAM`
         );
         console.log(`${username} has gifted sub to ${recipient} in ${channel} with TIER 2`.green);
     } else if (user['msg-param-sub-plan'] === '3000') {
         client.say(channel,
-            `/me interyPOP GIFTED TIER 3 SUB interyPOP ${username}, thank you for gifting a TIER 3 SUB to ${recipient}! leiabeLove`
+            `/me interyPOP GIFTED TIER 3 SUB interyPOP ${username}, thank you for gifting a TIER 3 SUB to ${recipient}! interyISCREAM`
         );
         console.log(`${username} has gifted sub to ${recipient} in ${channel} with TIER 3`.green);
     }
