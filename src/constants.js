@@ -23,7 +23,7 @@ export const ECONOMY_ENABLED = [
     'gothtarget', 'kindakatt', 'vley',
     'imaefx', 'intercreates', 'im_vivid',
     'yoitsvortex', 'ashencoal', 'zlroyals',
-    'cartiestt', 'sithlrcn'
+    'sithlrcn'
 ];
 
 export const SUPER_MOD = [
