@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['dukesnipez'];
+//export const CHANNEL_NAME = ['bunniejulie', 'itsdacity'];
 
 export const CHANNEL_NAME = [
     'intercreates', 'imaefx', 'kindakatt',
@@ -7,7 +7,8 @@ export const CHANNEL_NAME = [
     'not__mikee', 'vley', 'exotixlogic',
     'itsrft', 'uhavidity', 'cutestrosie',
     'xkitsugirl', 'zlroyals', 'leiabelle',
-    'cartiestt', 'sithlrcn', 'dukesnipez'
+    'cartiestt', 'sithlrcn', 'dukesnipez',
+    'bunniejulie', 'itsdacity'
 ];
 
 export const ANNOUNCE_ENABLED = [
