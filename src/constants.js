@@ -8,7 +8,7 @@ export const CHANNEL_NAME = [
     'itsrft', 'uhavidity', 'cutestrosie',
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'cartiestt', 'sithlrcn', 'dukesnipez',
-    'bunniejulie', 'itsdacity'
+    'bunniejulie', 'itsdacity', 'omnibal'
 ];
 
 export const ANNOUNCE_ENABLED = [
@@ -28,8 +28,7 @@ export const ECONOMY_ENABLED = [
 ];
 
 export const SUPER_MOD = [
-    'intercreates', 'itsrft', 'kindakatt',
-    'zmalachi'
+    'intercreates'
 ];
 
 export const BOT_USERNAME = 'intercreates';
@@ -42,6 +41,6 @@ export const BLOCKED_WORDS = [
     'terrorist', 'retard', 'retarded',
     'tranny', 'coon','zipperhead',
     'chink', 'kike', 'blackie',
-    'blacky', 'bigfollows', 'wanna become famous',
-    'buy followers'
+    'blacky', 'bigfollows', 'become famous',
+    'buy follow'
 ];
