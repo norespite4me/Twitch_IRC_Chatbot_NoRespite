@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['bunniejulie', 'itsdacity'];
+//export const CHANNEL_NAME = ['intercreates'];
 
 export const CHANNEL_NAME = [
     'intercreates', 'imaefx', 'kindakatt',
