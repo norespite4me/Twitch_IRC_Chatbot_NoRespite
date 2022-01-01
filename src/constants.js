@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['intercreates'];
+//export const CHANNEL_NAME = ['intercreates', 'kindakatt'];
 
 export const CHANNEL_NAME = [
     'intercreates', 'imaefx', 'kindakatt',
@@ -25,6 +25,17 @@ export const ECONOMY_ENABLED = [
     'imaefx', 'intercreates', 'im_vivid',
     'yoitsvortex', 'ashencoal', 'zlroyals',
     'sithlrcn'
+];
+
+export const LINK_PROTECTION_ENABLED = [
+    'intercreates', 'imaefx', 'kindakatt'
+    'zmalachi', 'nylawuh', 'its_gunning',
+    'yoitsvortex', 'ashencoal', 'im_vivid',
+    'not__mikee', 'vley', 'exotixlogic',
+    'itsrft', 'uhavidity', 'cutestrosie',
+    'xkitsugirl', 'zlroyals', 'leiabelle',
+    'sithlrcn', 'dukesnipez','itsdacity',
+    'omnibal'
 ];
 
 export const SUPER_MOD = [
