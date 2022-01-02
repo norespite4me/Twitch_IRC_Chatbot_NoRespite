@@ -2,13 +2,13 @@
 
 export const CHANNEL_NAME = [
     'intercreates', 'imaefx', 'kindakatt',
-    'zmalachi', 'nylawuh', 'its_gunning',
-    'yoitsvortex', 'ashencoal', 'im_vivid',
+    'zmalachi', 'yoitsvortex', 'ashencoal',
     'not__mikee', 'vley', 'exotixlogic',
     'itsrft', 'uhavidity', 'cutestrosie',
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'cartiestt', 'sithlrcn', 'dukesnipez',
-    'bunniejulie', 'itsdacity', 'omnibal'
+    'bunniejulie', 'itsdacity', 'omnibal',
+    'im_vivid',
 ];
 
 export const ANNOUNCE_ENABLED = [
@@ -28,14 +28,13 @@ export const ECONOMY_ENABLED = [
 ];
 
 export const LINK_PROTECTION_ENABLED = [
-    'intercreates', 'imaefx', 'kindakatt'
-    'zmalachi', 'nylawuh', 'its_gunning',
-    'yoitsvortex', 'ashencoal', 'im_vivid',
+    'intercreates', 'imaefx', 'kindakatt',
+    'zmalachi', 'yoitsvortex', 'ashencoal',
     'not__mikee', 'vley', 'exotixlogic',
     'itsrft', 'uhavidity', 'cutestrosie',
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'sithlrcn', 'dukesnipez','itsdacity',
-    'omnibal'
+    'omnibal', 'im_vivid'
 ];
 
 export const SUPER_MOD = [
