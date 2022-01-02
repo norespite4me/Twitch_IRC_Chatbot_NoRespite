@@ -104,12 +104,6 @@ client.on('subgift', (channel, username, streakMonths, recipient, methods, user)
 
 });
 
-client.on('join', (channel, username, self) => {
-    if (username.indexOf('hoss') != -1){
-        client.sendMessage(channel, `/ban ${username}`);
-    }
-});
-
 
 
 // Called every time a message comes in
