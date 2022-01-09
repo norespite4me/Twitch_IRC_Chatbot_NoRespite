@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['intercreates', 'kindakatt'];
+//export const CHANNEL_NAME = ['parallelpride'];
 
 export const CHANNEL_NAME = [
     'intercreates', 'imaefx', 'kindakatt',
@@ -8,7 +8,7 @@ export const CHANNEL_NAME = [
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'cartiestt', 'sithlrcn', 'dukesnipez',
     'bunniejulie', 'itsdacity', 'omnibal',
-    'im_vivid',
+    'im_vivid', 'parallelpride'
 ];
 
 export const ANNOUNCE_ENABLED = [
@@ -34,7 +34,7 @@ export const LINK_PROTECTION_ENABLED = [
     'itsrft', 'uhavidity', 'cutestrosie',
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'sithlrcn', 'dukesnipez','itsdacity',
-    'omnibal', 'im_vivid'
+    'omnibal', 'im_vivid', 'parallelpride'
 ];
 
 export const SUPER_MOD = [
