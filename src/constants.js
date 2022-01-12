@@ -50,7 +50,7 @@ export const BLOCKED_WORDS = [
     'l4l', 'f4f', 'niggah',
     'terrorist', 'retard', 'retarded',
     'tranny', 'coon','zipperhead',
-    'chink', 'kike', 'blackie',
+    'chink', 'blackie',
     'blacky', 'bigfollows', 'become famous',
     'buy follow'
 ];
