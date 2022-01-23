@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['parallelpride'];
+//export const CHANNEL_NAME = ['kf3gaming'];
 
 export const CHANNEL_NAME = [
     'intercreates', 'imaefx', 'kindakatt',
@@ -8,7 +8,8 @@ export const CHANNEL_NAME = [
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'cartiestt', 'sithlrcn', 'dukesnipez',
     'bunniejulie', 'itsdacity', 'omnibal',
-    'im_vivid', 'parallelpride'
+    'im_vivid', 'parallelpride', 'zephy',
+    'bloo'
 ];
 
 export const ANNOUNCE_ENABLED = [
@@ -51,6 +52,5 @@ export const BLOCKED_WORDS = [
     'terrorist', 'retard', 'retarded',
     'tranny', 'coon','zipperhead',
     'chink', 'blackie',
-    'blacky', 'bigfollows', 'become famous',
-    'buy follow'
+    'blacky'
 ];
