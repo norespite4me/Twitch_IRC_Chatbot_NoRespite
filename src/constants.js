@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['kf3gaming'];
+//export const CHANNEL_NAME = ['itzprma'];
 
 export const CHANNEL_NAME = [
     'intercreates', 'imaefx', 'kindakatt',
@@ -9,7 +9,7 @@ export const CHANNEL_NAME = [
     'cartiestt', 'sithlrcn', 'dukesnipez',
     'bunniejulie', 'itsdacity', 'omnibal',
     'im_vivid', 'parallelpride', 'zephy',
-    'bloo'
+    'bloo', 'itzprma'
 ];
 
 export const ANNOUNCE_ENABLED = [
@@ -17,7 +17,7 @@ export const ANNOUNCE_ENABLED = [
     'zmalachi', 'vley', 'im_vivid',
     'not__mikee', 'exotixlogic', 'gothtarget',
     'cutestrosie', 'ziroyals', 'cartiestt',
-    'sithlrcn', 'dukesnipez'
+    'sithlrcn', 'dukesnipez', 'itzprma'
 ];
 
 export const ECONOMY_ENABLED = [
@@ -25,7 +25,7 @@ export const ECONOMY_ENABLED = [
     'gothtarget', 'kindakatt', 'vley',
     'imaefx', 'intercreates', 'im_vivid',
     'yoitsvortex', 'ashencoal', 'zlroyals',
-    'sithlrcn'
+    'sithlrcn', 'itzprma'
 ];
 
 export const LINK_PROTECTION_ENABLED = [
@@ -35,11 +35,12 @@ export const LINK_PROTECTION_ENABLED = [
     'itsrft', 'uhavidity', 'cutestrosie',
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'sithlrcn', 'dukesnipez','itsdacity',
-    'omnibal', 'im_vivid', 'parallelpride'
+    'omnibal', 'im_vivid', 'parallelpride',
+    'itzprma'
 ];
 
 export const SUPER_MOD = [
-    'intercreates'
+    'intercreates', 'omnibal'
 ];
 
 export const BOT_USERNAME = 'intercreates';
@@ -47,10 +48,9 @@ export const BOT_USERNAME = 'intercreates';
 export const BLOCKED_WORDS = [
     'nigger', 'faggot', 'kneeger',
     'kneegrow', 'bugger',
-    'homo', 'queer', 'fag',
-    'l4l', 'f4f', 'niggah',
-    'terrorist', 'retard', 'retarded',
-    'tranny', 'coon','zipperhead',
+    'queer', 'fag',
+    'retard', 'retarded',
+    'tranny', 'coon', 'zipperhead',
     'chink', 'blackie',
     'blacky'
 ];
