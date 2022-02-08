@@ -9,7 +9,7 @@ export const CHANNEL_NAME = [
     'cartiestt', 'sithlrcn', 'dukesnipez',
     'bunniejulie', 'itsdacity', 'omnibal',
     'im_vivid', 'parallelpride', 'zephy',
-    'bloo', 'itzprma'
+    'bloo', 'itzprma', 'alainaz'
 ];
 
 export const ANNOUNCE_ENABLED = [
