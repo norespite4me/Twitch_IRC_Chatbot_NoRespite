@@ -12,6 +12,18 @@ export const CHANNEL_NAME = [
     'bloo', 'itzprma', 'alainaz'
 ];
 
+export const SQUIRT_ENABLED = [
+    'intercreates', 'imaefx',
+    'zmalachi', 'yoitsvortex', 'ashencoal',
+    'not__mikee', 'exotixlogic',
+    'uhavidity', 'cutestrosie',
+    'zlroyals', 'leiabelle',
+    'cartiestt', 'sithlrcn', 'dukesnipez',
+    'itsdacity', 'omnibal',
+    'im_vivid', 'parallelpride', 'zephy',
+    'itzprma'
+];
+
 export const ANNOUNCE_ENABLED = [
     'intercreates', 'imaefx', 'kindakatt',
     'zmalachi', 'vley', 'im_vivid',
