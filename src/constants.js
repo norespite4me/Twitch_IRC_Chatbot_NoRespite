@@ -9,7 +9,8 @@ export const CHANNEL_NAME = [
     'cartiestt', 'sithlrcn', 'dukesnipez',
     'bunniejulie', 'itsdacity', 'omnibal',
     'im_vivid', 'parallelpride', 'zephy',
-    'bloo', 'itzprma', 'alainaz'
+    'bloo', 'itzprma', 'alainaz',
+    'stratusbaca'
 ];
 
 export const SQUIRT_ENABLED = [
@@ -21,7 +22,7 @@ export const SQUIRT_ENABLED = [
     'cartiestt', 'sithlrcn', 'dukesnipez',
     'itsdacity', 'omnibal',
     'im_vivid', 'parallelpride', 'zephy',
-    'itzprma'
+    'itzprma', 'stratusbaca'
 ];
 
 export const ANNOUNCE_ENABLED = [
