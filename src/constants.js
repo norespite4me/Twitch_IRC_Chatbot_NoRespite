@@ -8,9 +8,9 @@ export const CHANNEL_NAME = [
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'cartiestt', 'sithlrcn', 'dukesnipez',
     'bunniejulie', 'itsdacity', 'omnibal',
-    'im_vivid', 'parallelpride', 'zephy',
+    'im_vivid', 'pride', 'zephy',
     'bloo', 'itzprma', 'alainaz',
-    'stratusbaca'
+    'stratusbaca', 'chai'
 ];
 
 export const SQUIRT_ENABLED = [
@@ -21,8 +21,8 @@ export const SQUIRT_ENABLED = [
     'zlroyals', 'leiabelle',
     'cartiestt', 'sithlrcn', 'dukesnipez',
     'itsdacity', 'omnibal',
-    'im_vivid', 'parallelpride', 'zephy',
-    'itzprma', 'stratusbaca'
+    'im_vivid', 'pride', 'zephy',
+    'itzprma', 'stratusbaca', 'chai'
 ];
 
 export const ANNOUNCE_ENABLED = [
@@ -48,7 +48,7 @@ export const LINK_PROTECTION_ENABLED = [
     'itsrft', 'uhavidity', 'cutestrosie',
     'xkitsugirl', 'zlroyals', 'leiabelle',
     'sithlrcn', 'dukesnipez','itsdacity',
-    'omnibal', 'im_vivid', 'parallelpride',
+    'omnibal', 'im_vivid', 'pride',
     'itzprma'
 ];
 
