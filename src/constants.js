@@ -1,59 +1,68 @@
 //export const CHANNEL_NAME = ['itzprma'];
 
 export const CHANNEL_NAME = [
-    'intercreates', 'imaefx', 'kindakatt',
-    'zmalachi', 'yoitsvortex', 'ashencoal',
-    'not__mikee', 'vley', 'exotixlogic',
-    'itsrft', 'uhavidity', 'cutestrosie',
-    'xkitsugirl', 'zlroyals', 'leiabelle',
-    'cartiestt', 'sithlrcn', 'dukesnipez',
+    'intercreates', 'kindakatt',
+    'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
+    'cartiestt', 'dukesnipez',
     'bunniejulie', 'itsdacity', 'omnibal',
-    'im_vivid', 'pride', 'zephy',
+    'pride', 'zephy',
     'bloo', 'itzprma', 'alainaz',
-    'stratusbaca', 'chai'
+    'stratusbaca', 'chai', 'bams',
+    'depv', 'rymms', 'twyman',
+    'oceanmangod', 'arcn', 'razh',
+    'kingswpr', 'chiefzlive', 'obeyalastor',
+    'miiztlad', 'emzy', 'pamaj'
 ];
 
 export const SQUIRT_ENABLED = [
-    'intercreates', 'imaefx',
-    'zmalachi', 'yoitsvortex', 'ashencoal',
-    'not__mikee', 'exotixlogic',
-    'uhavidity', 'cutestrosie',
+    'intercreates',
     'zlroyals', 'leiabelle',
-    'cartiestt', 'sithlrcn', 'dukesnipez',
+    'cartiestt', 'dukesnipez',
     'itsdacity', 'omnibal',
-    'im_vivid', 'pride', 'zephy',
-    'itzprma', 'stratusbaca', 'chai'
+    'pride', 'zephy',
+    'itzprma', 'stratusbaca', 'chai',
+    'rymms', 'twyman', 'obeyalastor',
+    'pamaj'
+];
+
+export const CROWNS = [
+    'deanobeano', 'kingswpr', 'obeyalastor',
+    'omnibal', 'oceanmangod', 'chai',
+    'pamaj', 'arcn', 'emzy', 'bams',
+    'pride', 'twyman', 'rymms', 'miiztlad',
+    'depv', 'chiefzliive', 'zephy', 'razh',
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'intercreates', 'imaefx', 'kindakatt',
-    'zmalachi', 'vley', 'im_vivid',
-    'not__mikee', 'exotixlogic', 'gothtarget',
-    'cutestrosie', 'ziroyals', 'cartiestt',
+    'intercreates', 'kindakatt',
+    'not__mikee', 'exotixlogic',
+    'ziroyals', 'cartiestt',
     'sithlrcn', 'dukesnipez', 'itzprma'
 ];
 
 export const ECONOMY_ENABLED = [
-    'cutestrosie', 'zmalachi', 'exotixlogic',
-    'gothtarget', 'kindakatt', 'vley',
-    'imaefx', 'intercreates', 'im_vivid',
-    'yoitsvortex', 'ashencoal', 'zlroyals',
-    'sithlrcn', 'itzprma'
+    'cutestrosie',
+    'kindakatt',
+    'intercreates',
+    'zlroyals',
+    'itzprma'
 ];
 
 export const LINK_PROTECTION_ENABLED = [
-    'intercreates', 'imaefx', 'kindakatt',
-    'zmalachi', 'yoitsvortex', 'ashencoal',
-    'not__mikee', 'vley', 'exotixlogic',
-    'itsrft', 'uhavidity', 'cutestrosie',
-    'xkitsugirl', 'zlroyals', 'leiabelle',
-    'sithlrcn', 'dukesnipez','itsdacity',
-    'omnibal', 'im_vivid', 'pride',
+    'intercreates', 'kindakatt',
+    'itsrft', 'uhavidity',
+    'fluwfs', 'zlroyals', 'leiabelle',
+    'dukesnipez', 'itsdacity',
+    'omnibal', 'pride',
     'itzprma'
 ];
 
 export const SUPER_MOD = [
-    'intercreates', 'omnibal'
+    'intercreates', 'omnibal', 'pride', 'zephy',
+    'bloo', 'bunniejulie', 'itzprma', 'chai',
+    'depv', 'rymms', 'twyman', 'oceanmangod',
+    'arcn', 'razh', 'kingswpr', 'chiefzliive',
+    'obeyalastor', 'miiztlad', 'emzy', 'pamaj'
 ];
 
 export const BOT_USERNAME = 'intercreates';
