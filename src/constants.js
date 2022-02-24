@@ -11,7 +11,7 @@ export const CHANNEL_NAME = [
     'depv', 'rymms', 'twyman',
     'oceanmangod', 'arcn', 'razh',
     'kingswpr', 'chiefzlive', 'obeyalastor',
-    'miiztlad', 'emzy', 'pamaj', 'lefhai'
+    'miiztlad', 'emzy', 'pamaj', 'lefhai', 'zelta'
 ];
 
 export const SQUIRT_ENABLED = [
@@ -30,7 +30,8 @@ export const CROWNS = [
     'omnibal', 'oceanmangod', 'chai',
     'pamaj', 'arcn', 'emzy', 'bams',
     'pride', 'twyman', 'rymms', 'miiztlad',
-    'depv', 'chiefzliive', 'zephy', 'razh', 'lefhai'
+    'depv', 'chiefzliive', 'zephy', 'razh', 'lefhai',
+    'zelta'
 ];
 
 export const ANNOUNCE_ENABLED = [
