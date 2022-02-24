@@ -5,7 +5,7 @@ export const CHANNEL_NAME = [
     'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
     'cartiestt', 'dukesnipez',
     'bunniejulie', 'itsdacity', 'omnibal',
-    'pride', 'zephy',
+    'pride', 'zephy', 'deanobeano',
     'bloo', 'itzprma', 'alainaz',
     'stratusbaca', 'chai', 'bams',
     'depv', 'rymms', 'twyman',
@@ -22,7 +22,7 @@ export const SQUIRT_ENABLED = [
     'pride', 'zephy',
     'itzprma', 'stratusbaca', 'chai',
     'rymms', 'twyman', 'obeyalastor',
-    'pamaj', 'lefhai'
+    'pamaj', 'lefhai', 'deanobeano'
 ];
 
 export const CROWNS = [
