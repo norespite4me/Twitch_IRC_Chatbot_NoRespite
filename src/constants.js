@@ -8,7 +8,7 @@ export const CHANNEL_NAME = [
     'pride', 'zephy', 'deanobeano',
     'bloo', 'itzprma', 'alainaz',
     'stratusbaca', 'chai', 'bams',
-    'depv', 'rymms', 'twyman',
+    'depv', 'rymms', 'twyman', 'vstract',
     'oceanmangod', 'arcn', 'razh',
     'kingswpr', 'chiefzlive', 'obeyalastor',
     'miiztlad', 'emzy', 'pamaj', 'lefhai', 'zelta'
@@ -31,7 +31,7 @@ export const CROWNS = [
     'pamaj', 'arcn', 'emzy', 'bams',
     'pride', 'twyman', 'rymms', 'miiztlad',
     'depv', 'chiefzliive', 'zephy', 'razh', 'lefhai',
-    'zelta'
+    'zelta', 'vstract'
 ];
 
 export const ANNOUNCE_ENABLED = [
