@@ -1,7 +1,7 @@
-//export const CHANNEL_NAME = ['itzprma'];
+//export const CHANNEL_NAME = ['blupi'];
 
 export const CHANNEL_NAME = [
-    'intercreates', 'kindakatt',
+    'interyon', 'kindakatt',
     'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
     'cartiestt',
     'bunniejulie', 'itsdacity', 'omnibal',
@@ -15,14 +15,14 @@ export const CHANNEL_NAME = [
 ];
 
 export const SQUIRT_ENABLED = [
-    'intercreates',
+    'interyon',
     'zlroyals', 'leiabelle',
-    'cartiestt', 'dukesnipez',
+    'cartiestt',
     'itsdacity', 'omnibal',
     'pride', 'zephy',
     'itzprma', 'stratusbaca', 'chai',
     'rymms', 'twyman', 'obeyalastor',
-    'pamaj', 'lefhai', 'deanobeano'
+    'pamaj', 'lefhai', 'deanobeano', 'blupi'
 ];
 
 export const CROWNS = [
@@ -35,38 +35,38 @@ export const CROWNS = [
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'intercreates', 'kindakatt',
+    'interyon', 'kindakatt',
     'not__mikee', 'exotixlogic',
     'ziroyals', 'cartiestt',
-    'sithlrcn', 'dukesnipez', 'itzprma'
+    'sithlrcn', 'itzprma'
 ];
 
 export const ECONOMY_ENABLED = [
     'cutestrosie',
     'kindakatt',
-    'intercreates',
+    'interyon',
     'zlroyals',
     'itzprma'
 ];
 
 export const LINK_PROTECTION_ENABLED = [
-    'intercreates', 'kindakatt',
+    'interyon', 'kindakatt',
     'itsrft', 'uhavidity',
     'fluwfs', 'zlroyals', 'leiabelle',
-    'dukesnipez', 'itsdacity',
+    'itsdacity',
     'omnibal', 'pride',
     'itzprma'
 ];
 
 export const SUPER_MOD = [
-    'intercreates', 'omnibal', 'pride', 'zephy',
+    'interyon', 'omnibal', 'pride', 'zephy',
     'bloo', 'bunniejulie', 'itzprma', 'chai',
     'depv', 'rymms', 'twyman', 'oceanmangod',
     'arcn', 'razh', 'kingswpr', 'chiefzliive',
     'obeyalastor', 'miiztlad', 'emzy', 'pamaj'
 ];
 
-export const BOT_USERNAME = 'intercreates';
+export const BOT_USERNAME = 'interyon';
 
 export const BLOCKED_WORDS = [
     'nigger', 'faggot', 'kneeger',
