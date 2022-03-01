@@ -3,7 +3,7 @@
 export const CHANNEL_NAME = [
     'interyon', 'kindakatt',
     'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
-    'cartiestt',
+    'cartiestt', 'blupi',
     'bunniejulie', 'itsdacity', 'omnibal',
     'pride', 'zephy', 'deanobeano',
     'bloo', 'itzprma', 'alainaz',
