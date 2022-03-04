@@ -3,7 +3,7 @@
 export const CHANNEL_NAME = [
     'interyon', 'kindakatt',
     'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
-    'cartiestt', 'blupi',
+    'cartiestt', 'blupi', 'equanity',
     'bunniejulie', 'itsdacity', 'omnibal',
     'pride', 'zephy', 'deanobeano',
     'bloo', 'itzprma', 'alainaz',
@@ -17,7 +17,7 @@ export const CHANNEL_NAME = [
 export const SQUIRT_ENABLED = [
     'interyon',
     'zlroyals', 'leiabelle',
-    'cartiestt',
+    'cartiestt', 'equanity',
     'itsdacity', 'omnibal',
     'pride', 'zephy',
     'itzprma', 'stratusbaca', 'chai',
@@ -38,7 +38,7 @@ export const ANNOUNCE_ENABLED = [
     'interyon', 'kindakatt',
     'not__mikee', 'exotixlogic',
     'ziroyals', 'cartiestt',
-    'sithlrcn', 'itzprma'
+    'sithlrcn', 'itzprma', 'equanity'
 ];
 
 export const ECONOMY_ENABLED = [
@@ -46,14 +46,14 @@ export const ECONOMY_ENABLED = [
     'kindakatt',
     'interyon',
     'zlroyals',
-    'itzprma'
+    'itzprma', 'equanity'
 ];
 
 export const LINK_PROTECTION_ENABLED = [
     'interyon', 'kindakatt',
     'itsrft', 'uhavidity',
     'fluwfs', 'zlroyals', 'leiabelle',
-    'itsdacity',
+    'itsdacity', 'equanity',
     'omnibal', 'pride',
     'itzprma'
 ];
