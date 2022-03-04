@@ -1,5 +1,5 @@
-export const CHANNEL_NAME = ['interyon'];
-/*
+//export const CHANNEL_NAME = ['interyon'];
+
 export const CHANNEL_NAME = [
     'interyon', 'kindakatt',
     'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
@@ -13,7 +13,7 @@ export const CHANNEL_NAME = [
     'kingswpr', 'chiefzlive', 'obeyalastor',
     'miiztlad', 'emzy', 'pamaj', 'lefhai', 'zelta'
 ];
-*/
+
 export const SQUIRT_ENABLED = [
     'interyon',
     'zlroyals', 'leiabelle',
