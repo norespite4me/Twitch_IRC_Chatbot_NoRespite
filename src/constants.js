@@ -30,7 +30,7 @@ export const CROWNS = [
     'omnibal', 'oceanmangod', 'chai',
     'pamaj', 'arcn', 'emzy', 'bams',
     'pride', 'twyman', 'rymms', 'miiztlad',
-    'depv', 'chiefzliive', 'zephy', 'razh', 'lefhai',
+    'depv', 'chiefzlive', 'zephy', 'razh', 'lefhai',
     'zelta', 'vstract'
 ];
 
