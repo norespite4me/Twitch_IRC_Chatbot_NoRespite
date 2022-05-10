@@ -3,7 +3,7 @@
 export const CHANNEL_NAME = [
     'interyon', 'kindakatt',
     'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
-    'cartiestt', 'blupi', 'equanity',
+    'cartiestt', 'gwidt', 'equanity',
     'bunniejulie', 'itsdacity', 'omnibal',
     'pride', 'zephy', 'deanobeano',
     'bloo', 'itzprma', 'alainaz',
@@ -22,7 +22,7 @@ export const SQUIRT_ENABLED = [
     'pride', 'zephy',
     'itzprma', 'stratusbaca', 'chai',
     'rymms', 'twyman', 'obeyalastor',
-    'pamaj', 'lefhai', 'deanobeano', 'blupi'
+    'pamaj', 'lefhai', 'deanobeano', 'gwidt'
 ];
 
 export const CROWNS = [
@@ -31,7 +31,7 @@ export const CROWNS = [
     'pamaj', 'arcn', 'emzy', 'bams',
     'pride', 'twyman', 'rymms', 'miiztlad',
     'depv', 'chiefzlive', 'zephy', 'razh', 'lefhai',
-    'zelta', 'vstract'
+    'zelta', 'vstract', 'gwidt'
 ];
 
 export const ANNOUNCE_ENABLED = [
@@ -51,8 +51,8 @@ export const ECONOMY_ENABLED = [
 
 export const LINK_PROTECTION_ENABLED = [
     'interyon', 'kindakatt',
-    'itsrft', 'uhavidity',
-    'fluwfs', 'zlroyals', 'leiabelle',
+    'itsrft',
+    'fluwfs', 'zlroyals',
     'itsdacity', 'equanity',
     'omnibal', 'pride',
     'itzprma'
@@ -63,7 +63,8 @@ export const SUPER_MOD = [
     'bloo', 'bunniejulie', 'itzprma', 'chai',
     'depv', 'rymms', 'twyman', 'oceanmangod',
     'arcn', 'razh', 'kingswpr', 'chiefzliive',
-    'obeyalastor', 'miiztlad', 'emzy', 'pamaj'
+    'obeyalastor', 'miiztlad', 'emzy', 'pamaj',
+    'gwidt'
 ];
 
 export const BOT_USERNAME = 'interyon';
