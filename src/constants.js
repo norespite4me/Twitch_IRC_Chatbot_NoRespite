@@ -19,7 +19,7 @@ export const SQUIRT_ENABLED = [
     'zlroyals', 'leiabelle',
     'cartiestt', 'equanity',
     'itsdacity', 'omnibal',
-    'pride', 'zephy',
+    'pride', 'zephy', 'depv',
     'itzprma', 'stratusbaca', 'chai',
     'rymms', 'twyman', 'obeyalastor',
     'pamaj', 'lefhai', 'deanobeano', 'gwidt'
