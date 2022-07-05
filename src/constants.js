@@ -7,9 +7,9 @@ export const CHANNEL_NAME = [
     'bunniejulie', 'itsdacity', 'omnibal',
     'pride', 'zephy', 'deanobeano',
     'bloo', 'itzprma', 'alainaz',
-    'stratusbaca', 'chai', 'bams',
+    'stratusbaca', 'chai', 'bams', 'cartierdreww',
     'depv', 'rymms', 'twyman', 'stractx',
-    'oceanmangod', 'arcn', 'razh',
+    'oceanmangod', 'arcn', 'razh', 'obeysalsa',
     'kingswpr', 'chiefzlive', 'obeyalastor',
     'miiztlad', 'emzy', 'pamaj', 'lefhai', 'zelta'
 ];
@@ -17,8 +17,8 @@ export const CHANNEL_NAME = [
 export const SQUIRT_ENABLED = [
     'interyon', 'izskyyy',
     'zlroyals', 'leiabelle',
-    'cartiestt', 'equanity',
-    'itsdacity', 'omnibal',
+    'cartiestt', 'equanity', 'cartierdreww',
+    'itsdacity', 'omnibal', 'obeysalsa',
     'pride', 'zephy', 'depv',
     'itzprma', 'stratusbaca', 'chai',
     'rymms', 'twyman', 'obeyalastor',
@@ -27,11 +27,11 @@ export const SQUIRT_ENABLED = [
 
 export const CROWNS = [
     'deanobeano', 'kingswpr', 'obeyalastor',
-    'omnibal', 'oceanmangod', 'chai',
+    'omnibal', 'oceanmangod', 'chai', 'cartierdreww',
     'pamaj', 'arcn', 'emzy', 'bams',
     'pride', 'twyman', 'rymms', 'miiztlad',
     'depv', 'chiefzlive', 'zephy', 'razh', 'lefhai',
-    'zelta', 'stractx', 'gwidt'
+    'zelta', 'stractx', 'gwidt', 'obeysalsa'
 ];
 
 export const ANNOUNCE_ENABLED = [
