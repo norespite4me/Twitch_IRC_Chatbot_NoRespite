@@ -1,4 +1,4 @@
-//export const CHANNEL_NAME = ['izskyyy'];
+//export const CHANNEL_NAME = ['skyyy360s'];
 
 export const CHANNEL_NAME = [
     'interyon', 'kindakatt', 'skyyy360s',
