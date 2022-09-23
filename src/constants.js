@@ -1,7 +1,7 @@
 //export const CHANNEL_NAME = ['izskyyy'];
 
 export const CHANNEL_NAME = [
-    'interyon', 'kindakatt', 'izskyyy',
+    'interyon', 'kindakatt', 'skyyy360s',
     'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
     'cartiestt', 'gwidt', 'equanity',
     'bunniejulie', 'itsdacity', 'omnibal',
@@ -15,7 +15,7 @@ export const CHANNEL_NAME = [
 ];
 
 export const SQUIRT_ENABLED = [
-    'interyon', 'izskyyy',
+    'interyon', 'skyyy360s',
     'zlroyals', 'leiabelle', 'tahirnothere',
     'cartiestt', 'equanity', 'cartierdreww',
     'itsdacity', 'omnibal', 'obeysalsa',
