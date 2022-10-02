@@ -2,7 +2,7 @@
 
 export const CHANNEL_NAME = [
     'interyon', 'kindakatt', 'skyyy360s',
-    'itsrft', 'fluwfs', 'zlroyals', 'leiabelle',
+    'riftyvt_', 'fluwfs', 'zlroyals', 'leiabelle',
     'cartiestt', 'gwidt', 'equanity',
     'bunniejulie', 'itsdacity', 'omnibal',
     'pride', 'zephy', 'deanobeano',
@@ -51,7 +51,7 @@ export const ECONOMY_ENABLED = [
 
 export const LINK_PROTECTION_ENABLED = [
     'interyon', 'kindakatt',
-    'itsrft',
+    'riftyvt_',
     'fluwfs', 'zlroyals',
     'itsdacity', 'equanity',
     'omnibal', 'pride',
