@@ -1,10 +1,10 @@
 //export const CHANNEL_NAME = ['skyyy360s'];
 
 export const CHANNEL_NAME = [
-    'interyon', 'kindakatt', 'skyyy360s',
-    'riftyvt_', 'fluwfs', 'zlroyals', 'leiabelle',
-    'cartiestt', 'gwidt', 'equanity',
-    'bunniejulie', 'itsdacity', 'omnibal',
+    'interyon',  'skyyy360s',
+    'riftyvt_',   
+    'cartiestt',  
+    'bunniejulie',  'omnibal',
     'pride', 'zephy', 'deanobeano',
     'bloo', 'itzprma', 'alainaz',
     'stratusbaca', 'chai', 'bams', 'cartierdreww',
@@ -16,9 +16,9 @@ export const CHANNEL_NAME = [
 
 export const SQUIRT_ENABLED = [
     'interyon', 'skyyy360s',
-    'zlroyals', 'leiabelle', 'tahirnothere',
-    'cartiestt', 'equanity', 'cartierdreww',
-    'itsdacity', 'omnibal', 'obeysalsa',
+    'tahirnothere',
+    'cartiestt',  'cartierdreww',
+    'omnibal', 'obeysalsa',
     'pride', 'zephy', 'depv',
     'itzprma', 'stratusbaca', 'chai',
     'rymms', 'twyman', 'obeyalastor',
@@ -31,30 +31,25 @@ export const CROWNS = [
     'pamaj', 'arcn', 'emzy', 'bams',
     'pride', 'twyman', 'rymms', 'miiztlad',
     'depv', 'chiefzlive', 'zephy', 'razh', 'lefhai',
-    'zelta', 'stractx', 'gwidt', 'obeysalsa'
+    'zelta', 'stractx', 'obeysalsa'
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'interyon', 'kindakatt',
+    'interyon', 
     'not__mikee', 'exotixlogic',
     'ziroyals', 'cartiestt', 'tahirnothere',
     'sithlrcn', 'itzprma', 'equanity'
 ];
 
 export const ECONOMY_ENABLED = [
-    'cutestrosie',
-    'kindakatt',
     'interyon',
-    'zlroyals', 'tahirnothere',
+    'tahirnothere',
     'itzprma', 'equanity'
 ];
 
 export const LINK_PROTECTION_ENABLED = [
-    'interyon', 'kindakatt',
-    'riftyvt_',
-    'fluwfs', 'zlroyals',
-    'itsdacity', 'equanity',
-    'omnibal', 'pride',
+    'interyon',
+    'omnibal',
     'itzprma'
 ];
 
