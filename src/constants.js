@@ -2,13 +2,12 @@
 
 export const CHANNEL_NAME = [
     'interyon',  'skyyy360s',
-    'riftyvt_',   
-    'cartiestt',  
+    'riftyvt_',     
     'bunniejulie',  'omnibal',
     'pride', 'zephy', 'deanobeano',
     'bloo', 'itzprma', 'alainaz',
     'stratusbaca', 'chai', 'bams', 'cartierdreww',
-    'depv', 'rymms', 'twyman', 'stractx', 'tahirnothere',
+    'depv', 'rymms', 'twyman', 'stract',
     'oceanmangod', 'arcn', 'razh', 'obeysalsa',
     'kingswpr', 'chiefzlive', 'obeyalastor',
     'miiztlad', 'emzy', 'pamaj', 'lefhai', 'zelta'
@@ -16,8 +15,7 @@ export const CHANNEL_NAME = [
 
 export const SQUIRT_ENABLED = [
     'interyon', 'skyyy360s',
-    'tahirnothere',
-    'cartiestt',  'cartierdreww',
+    'cartierdreww',
     'omnibal', 'obeysalsa',
     'pride', 'zephy', 'depv',
     'itzprma', 'stratusbaca', 'chai',
@@ -31,7 +29,7 @@ export const CROWNS = [
     'pamaj', 'arcn', 'emzy', 'bams',
     'pride', 'twyman', 'rymms', 'miiztlad',
     'depv', 'chiefzlive', 'zephy', 'razh', 'lefhai',
-    'zelta', 'stractx', 'obeysalsa'
+    'zelta', 'stract', 'obeysalsa'
 ];
 
 export const ANNOUNCE_ENABLED = [
