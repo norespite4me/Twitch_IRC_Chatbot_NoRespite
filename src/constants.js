@@ -2,7 +2,7 @@
 
 export const CHANNEL_NAME = [
     'interyon',  'skyyy360s',
-    'riftyvt_',     
+    'riftyvt_', 'kelswie',
     'bunniejulie',  'omnibal',
     'pride', 'zephy', 'deanobeano',
     'bloo', 'xprma', 'alainaz',
