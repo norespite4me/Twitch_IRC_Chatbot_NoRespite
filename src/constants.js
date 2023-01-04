@@ -5,7 +5,7 @@ export const CHANNEL_NAME = [
     'riftyvt_',     
     'bunniejulie',  'omnibal',
     'pride', 'zephy', 'deanobeano',
-    'bloo', 'itzprma', 'alainaz',
+    'bloo', 'xprma', 'alainaz',
     'stratusbaca', 'chai', 'bams', 'cartierdreww',
     'depv', 'rymms', 'twyman', 'stract',
     'oceanmangod', 'arcn', 'razh', 'obeysalsa',
@@ -18,7 +18,7 @@ export const SQUIRT_ENABLED = [
     'cartierdreww',
     'omnibal', 'obeysalsa',
     'pride', 'zephy', 'depv',
-    'itzprma', 'stratusbaca', 'chai',
+    'xprma', 'stratusbaca', 'chai',
     'rymms', 'twyman', 'obeyalastor',
     'pamaj', 'lefhai', 'deanobeano', 'gwidt'
 ];
@@ -36,24 +36,24 @@ export const ANNOUNCE_ENABLED = [
     'interyon', 
     'not__mikee', 'exotixlogic',
     'ziroyals', 'cartiestt', 'tahirnothere',
-    'sithlrcn', 'itzprma', 'equanity'
+    'sithlrcn', 'xprma', 'equanity'
 ];
 
 export const ECONOMY_ENABLED = [
     'interyon',
     'tahirnothere',
-    'itzprma', 'equanity'
+    'xprma', 'equanity'
 ];
 
 export const LINK_PROTECTION_ENABLED = [
     'interyon',
     'omnibal',
-    'itzprma'
+    'xprma'
 ];
 
 export const SUPER_MOD = [
     'interyon', 'omnibal', 'pride', 'zephy',
-    'bloo', 'bunniejulie', 'itzprma', 'chai',
+    'bloo', 'bunniejulie', 'xprma', 'chai',
     'depv', 'rymms', 'twyman', 'oceanmangod',
     'arcn', 'razh', 'kingswpr', 'chiefzliive',
     'obeyalastor', 'miiztlad', 'emzy', 'pamaj',
