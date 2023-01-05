@@ -29,18 +29,18 @@ export const CROWNS = [
     'pamaj', 'arcn', 'emzy', 'bams',
     'pride', 'twyman', 'rymms', 'miiztlad',
     'depv', 'chiefzlive', 'zephy', 'razh', 'lefhai',
-    'zelta', 'stract', 'obeysalsa'
+    'zelta', 'stract', 'obeysalsa', 'interyon'
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'interyon', 
+    'interyon',  'sith_sympathy',
     'not__mikee', 'exotixlogic',
     'ziroyals', 'cartiestt', 'tahirnothere',
     'sithlrcn', 'xprma', 'equanity'
 ];
 
 export const ECONOMY_ENABLED = [
-    'interyon',
+    'interyon', 'sith_sympathy',
     'tahirnothere',
     'xprma', 'equanity'
 ];
