@@ -5,8 +5,8 @@ export const CHANNEL_NAME = [
     'riftyvt_', 'kelswie', 'sith_sympathy',
     'bunniejulie',  'omnibal',
     'pride', 'zephy', 'deanobeano',
-    'bloo', 'xprma', 'alainaz',
-    'stratusbaca', 'chai', 'bams', 'cartierdreww',
+    'bloo', 'xprma',
+    'chai', 'bams', 'cartierdreww',
     'depv', 'rymms', 'twyman', 'stract',
     'oceanmangod', 'arcn', 'razh', 'obeysalsa',
     'kingswpr', 'chiefzlive', 'obeyalastor',
@@ -18,7 +18,7 @@ export const SQUIRT_ENABLED = [
     'cartierdreww', 'sith_sympathy',
     'omnibal', 'obeysalsa',
     'pride', 'zephy', 'depv',
-    'xprma', 'stratusbaca', 'chai',
+    'xprma', 'bams', 'chai',
     'rymms', 'twyman', 'obeyalastor',
     'pamaj', 'lefhai', 'deanobeano', 'gwidt'
 ];
