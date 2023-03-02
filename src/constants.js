@@ -5,7 +5,7 @@ export const CHANNEL_NAME = [
     'riftyvt_', 'kelswie', 'sith_sympathy',
     'bunniejulie',  'omnibal',
     'pride', 'zephy', 'deanobeano',
-    'bloo', 'xprma',
+    'bloo', 'xprma', 'itsdacity',
     'chai', 'bams', 'cartierdreww',
     'depv', 'rymms', 'twyman', 'stract',
     'oceanmangod', 'arcn', 'razh', 'obeysalsa',
@@ -16,7 +16,7 @@ export const CHANNEL_NAME = [
 export const SQUIRT_ENABLED = [
     'interyon', 'skyyy360s',
     'cartierdreww', 'sith_sympathy',
-    'omnibal', 'obeysalsa',
+    'omnibal', 'obeysalsa', 'itsdacity',
     'pride', 'zephy', 'depv',
     'xprma', 'bams', 'chai',
     'rymms', 'twyman', 'obeyalastor',
