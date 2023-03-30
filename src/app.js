@@ -1,13 +1,13 @@
 import tmi from 'tmi.js';
 import {
-    BOT_USERNAME,
-    CHANNEL_NAME,
-    ANNOUNCE_ENABLED
-} from './constants';
-import {
     OAUTH_TOKEN
 } from '../../twitch_bot_files/data/token';
 import * as react from '../lib/react.js';
+import {
+    ANNOUNCE_ENABLED,
+    BOT_USERNAME,
+    CHANNEL_NAME
+} from './constants';
 import * as tool from './tools.js';
 var colors = require('colors');
 
