@@ -21,7 +21,7 @@ const opts = {
         secure: true,
         timeout: 180000,
         reconnectDecay: 1.4,
-        reconneectInterval: 1000
+        reconnectInterval: 1000
     },
     identity: {
         username: BOT_USERNAME,
