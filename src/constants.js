@@ -1,7 +1,7 @@
 //export const CHANNEL_NAME = ['skyyy360s'];
 
 export const CHANNEL_NAME = [
-    'interyon',  'skyyy360s',
+    'interyon',  'skyyy360s', 'shorouzo',
     'riftyvt_', 'kelswie', 'sith_sympathy',
     'bunniejulie',  'omnibal',
     'pride', 'zephy', 'deanobeano',
@@ -10,7 +10,7 @@ export const CHANNEL_NAME = [
     'depv', 'rymms', 'twyman', 'stract',
     'oceanmangod', 'arcn', 'razh', 'obeysalsa',
     'kingswpr', 'chiefzlive', 'obeyalastor',
-    'miiztlad', 'emzy', 'pamaj', 'lefhai', 'zelta'
+    'miiztlad', 'emzy', 'pamaj', 'zelta'
 ];
 
 export const SQUIRT_ENABLED = [
@@ -20,7 +20,7 @@ export const SQUIRT_ENABLED = [
     'pride', 'zephy', 'depv',
     'xprma', 'bams', 'chai',
     'rymms', 'twyman', 'obeyalastor',
-    'pamaj', 'lefhai', 'deanobeano', 'gwidt'
+    'pamaj', 'deanobeano', 'gwidt'
 ];
 
 export const CROWNS = [
