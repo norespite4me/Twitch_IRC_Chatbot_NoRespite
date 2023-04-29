@@ -3,7 +3,7 @@
 export const CHANNEL_NAME = [
     'interyon',  'skyyy360s', 'shorouzo',
     'riftyvt_', 'kelswie', 'sith_sympathy',
-    'bunniejulie',  'omnibal',
+    'bunniejulie',  'omnibal', 'xhellokittyz',
     'pride', 'zephy', 'deanobeano',
     'bloo', 'xprma', 'itsdacity',
     'chai', 'bams', 'cartierdreww',
@@ -18,7 +18,7 @@ export const SQUIRT_ENABLED = [
     'cartierdreww', 'sith_sympathy',
     'omnibal', 'obeysalsa', 'itsdacity',
     'pride', 'zephy', 'depv',
-    'xprma', 'bams', 'chai',
+    'xprma', 'bams', 'chai', 'xhellokittyz',
     'rymms', 'twyman', 'obeyalastor',
     'pamaj', 'deanobeano', 'gwidt'
 ];
@@ -34,14 +34,14 @@ export const CROWNS = [
 
 export const ANNOUNCE_ENABLED = [
     'interyon',  'sith_sympathy',
-    'not__mikee', 'exotixlogic',
+    'not__mikee', 'exotixlogic', 'xhellokittyz',
     'ziroyals', 'cartiestt', 'tahirnothere',
     'sithlrcn', 'xprma', 'equanity'
 ];
 
 export const ECONOMY_ENABLED = [
     'interyon', 'sith_sympathy',
-    'tahirnothere',
+    'tahirnothere', 'xhellokittyz',
     'xprma', 'equanity'
 ];
 
