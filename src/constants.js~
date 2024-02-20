@@ -1,15 +1,26 @@
 //export const CHANNEL_NAME = ['skyyy360s'];
 
 export const CHANNEL_NAME = [
-    'interyon', 'shorouzo', 'kelswie',
-    'bunniejulie', 'r5ies', '0292',
-    'deanobeano','chai', 'bams',
-    'depv', 'rymms', 'twyman', 'obeysalsa',
-    'violetflowre'
+    'interyon',  'skyyy360s', 'shorouzo',
+    'riftyvt_', 'kelswie', 'sith_sympathy',
+    'bunniejulie',  'omnibal', 'xhellokittyz',
+    'pride', 'zephy', 'deanobeano',
+    'bloo', 'xprma', 'itsdacity',
+    'chai', 'bams', 'cartierdreww',
+    'depv', 'rymms', 'twyman', 'stract',
+    'oceanmangod', 'arcn', 'razh', 'obeysalsa',
+    'kingswpr', 'chiefzlive', 'obeyalastor',
+    'miiztlad', 'emzy', 'pamaj', 'zelta', 'xhydrologicx'
 ];
 
 export const SQUIRT_ENABLED = [
-    'interyon', '0292', 'violetflowre', 'r5ies'
+    'interyon', 'skyyy360s', 'xhydrologicx',
+    'cartierdreww', 'sith_sympathy',
+    'omnibal', 'obeysalsa', 'itsdacity',
+    'pride', 'zephy', 'depv',
+    'xprma', 'bams', 'chai', 'xhellokittyz',
+    'rymms', 'twyman', 'obeyalastor',
+    'pamaj', 'deanobeano', 'gwidt'
 ];
 
 export const CROWNS = [
@@ -22,15 +33,22 @@ export const CROWNS = [
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'interyon', 'r5ies', '0292', 'violetflowre'
+    'interyon',  'sith_sympathy', 'xhydrologicx',
+    'not__mikee', 'exotixlogic', 'xhellokittyz',
+    'ziroyals', 'cartiestt', 'tahirnothere',
+    'sithlrcn', 'xprma', 'equanity'
 ];
 
 export const ECONOMY_ENABLED = [
-    'interyon', 'r5ies', '0292'
+    'interyon', 'sith_sympathy',
+    'tahirnothere', 'xhellokittyz',
+    'xprma', 'equanity', 'xhydrologicx'
 ];
 
 export const LINK_PROTECTION_ENABLED = [
-    'interyon', 'r5ies', '0292'
+    'interyon',
+    'omnibal',
+    'xprma'
 ];
 
 export const SUPER_MOD = [
