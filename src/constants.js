@@ -9,7 +9,7 @@ export const CHANNEL_NAME = [
 ];
 
 export const SQUIRT_ENABLED = [
-    'interyon', '0292', 'violetflowre', 'r5ies'
+    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo'
 ];
 
 export const CROWNS = [
@@ -22,11 +22,11 @@ export const CROWNS = [
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'interyon', 'r5ies', '0292', 'violetflowre'
+    'interyon', 'r5ies', '0292', 'violetflowre', 'shorouzo'
 ];
 
 export const ECONOMY_ENABLED = [
-    'interyon', 'r5ies', '0292'
+    'interyon', 'r5ies', '0292', 'shorouzo'
 ];
 
 export const LINK_PROTECTION_ENABLED = [
