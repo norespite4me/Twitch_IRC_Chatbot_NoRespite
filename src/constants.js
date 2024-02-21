@@ -22,7 +22,7 @@ export const CROWNS = [
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'interyon', 'r5ies', '0292', 'violetflowre', 'shorouzo'
+    'interyon', 'r5ies', '0292', 'violetflowre', 'shorouzo', 'deanobeano'
 ];
 
 export const ECONOMY_ENABLED = [
