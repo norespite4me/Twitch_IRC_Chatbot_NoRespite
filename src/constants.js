@@ -28,16 +28,11 @@ export const ECONOMY_ENABLED = [
 ];
 
 export const LINK_PROTECTION_ENABLED = [
-    'interyon', 'r5ies', '0292'
+    'interyon', 'r5ies'
 ];
 
 export const SUPER_MOD = [
-    'interyon', 'omnibal', 'pride', 'zephy',
-    'bloo', 'bunniejulie', 'xprma', 'chai',
-    'depv', 'rymms', 'twyman', 'oceanmangod',
-    'arcn', 'razh', 'kingswpr', 'chiefzliive',
-    'obeyalastor', 'miiztlad', 'emzy', 'pamaj',
-    'gwidt'
+    'interyon'
 ];
 
 export const BOT_USERNAME = 'interyon';
