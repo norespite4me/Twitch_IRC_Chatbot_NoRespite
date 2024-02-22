@@ -7,16 +7,7 @@ export const CHANNEL_NAME = [
 ];
 
 export const SQUIRT_ENABLED = [
-    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo'
-];
-
-export const CROWNS = [
-    'deanobeano', 'kingswpr', 'obeyalastor',
-    'omnibal', 'oceanmangod', 'chai', 'cartierdreww',
-    'pamaj', 'arcn', 'emzy', 'bams',
-    'pride', 'twyman', 'rymms', 'miiztlad',
-    'depv', 'chiefzlive', 'zephy', 'razh', 'lefhai',
-    'zelta', 'stract', 'obeysalsa', 'interyon'
+    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo', 'deanobeano'
 ];
 
 export const ANNOUNCE_ENABLED = [
