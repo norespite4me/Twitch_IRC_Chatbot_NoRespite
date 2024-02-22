@@ -7,11 +7,11 @@ export const CHANNEL_NAME = [
 ];
 
 export const SQUIRT_ENABLED = [
-    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo', 'deanobeano'
+    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo'
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'interyon', 'r5ies', '0292', 'violetflowre', 'shorouzo', 'deanobeano'
+    'interyon', 'r5ies', '0292', 'violetflowre', 'shorouzo'
 ];
 
 export const ECONOMY_ENABLED = [
