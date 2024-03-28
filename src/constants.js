@@ -3,15 +3,16 @@
 export const CHANNEL_NAME = [
     'interyon', 'shorouzo', 'kelswie',
     'bunniejulie', 'r5ies', '0292',
-    'violetflowre'
+    'violetflowre', 'deanobeano', 'bams',
+    'twyman', 'chai', 'pamaj'
 ];
 
 export const SQUIRT_ENABLED = [
-    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo'
+    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo', 'twyman', 'pamaj'
 ];
 
 export const ANNOUNCE_ENABLED = [
-    'interyon', 'r5ies', '0292', 'violetflowre', 'shorouzo'
+    'interyon', 'r5ies', '0292', 'shorouzo'
 ];
 
 export const ECONOMY_ENABLED = [
