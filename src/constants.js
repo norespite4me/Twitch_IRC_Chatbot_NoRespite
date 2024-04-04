@@ -11,6 +11,10 @@ export const SQUIRT_ENABLED = [
     'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo', 'twyman', 'pamaj'
 ];
 
+export const LEVELS_DISABLED = [
+    'deanobeano'
+];
+
 export const ANNOUNCE_ENABLED = [
     'interyon', 'r5ies', '0292', 'shorouzo'
 ];
