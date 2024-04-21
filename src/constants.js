@@ -1,14 +1,14 @@
 //export const CHANNEL_NAME = ['skyyy360s'];
 
 export const CHANNEL_NAME = [
-    'interyon', 'shorouzo', 'kelswie',
+    'interyon', 'shorouzo',
     'bunniejulie', 'r5ies', '0292',
     'violetflowre', 'deanobeano', 'bams',
-    'twyman', 'chai', 'pamaj'
+    'twyman', 'pamaj', 'packa_210'
 ];
 
 export const SQUIRT_ENABLED = [
-    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo', 'twyman', 'pamaj'
+    'interyon', '0292', 'violetflowre', 'r5ies', 'shorouzo', 'twyman', 'pamaj', 'packa_210'
 ];
 
 export const LEVELS_DISABLED = [
