@@ -2,9 +2,9 @@
 
 export const CHANNEL_NAME = [
     'interyon', 'shorouzo',
-    'bunniejulie', 'r5ies', '0292',
+    'bunniejulie', '0292',
     'violetflowre', 'deanobeano', 'bams',
-    'twyman', 'pamaj', 'packa_210'
+    'twyman', 'pamaj', 'packa_210', 'amandalynn'
 ];
 
 export const SQUIRT_ENABLED = [
